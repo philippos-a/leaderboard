@@ -1,2 +1,0 @@
-# leaderboard
-Hosting Plotly Graphs
